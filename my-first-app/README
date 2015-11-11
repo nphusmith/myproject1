@@ -3,5 +3,9 @@ This is your new Play application
 
 This file will be packaged with your application, when using `activator dist`.
 Hello
+<<<<<<< .mine
 Test create branch develop.
-test_feature_1.
+=======
+Test create branch develop.
+>>>>>>> .theirs
+test_feature_1.test_feature_2.
